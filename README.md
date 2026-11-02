@@ -42,7 +42,7 @@ No complicated setup. No cloud storage. Just a cleaner Downloads folder.
 
 ### Option 1 — Download the application
 
-1.[⬇️ Download Auto File Sorter](https://github.com/pushpraj19/AutoFileSorter/releases/latest/download/AutoFileSorter.exe)Releases section.
+1.[⬇️ Download Auto File Sorter](https://github.com/pushpraj19/AutoFileSorter/releases/latest/download/AutoFileSorter.exe)
 2. Run the executable.
 3. Follow the setup screen.
 4. Choose whether to enable Windows startup.
