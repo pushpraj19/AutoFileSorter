@@ -42,7 +42,7 @@ No complicated setup. No cloud storage. Just a cleaner Downloads folder.
 
 ### Option 1 — Download the application
 
-1. Download `AutoFileSorter.exe` from the Releases section.
+1.[⬇️ Download Auto File Sorter](https://github.com/pushpraj19/AutoFileSorter/releases/latest/download/AutoFileSorter.exe)Releases section.
 2. Run the executable.
 3. Follow the setup screen.
 4. Choose whether to enable Windows startup.
@@ -130,9 +130,11 @@ The source code is available for inspection.
 - [x] First-run setup screen
 - [x] Windows startup option
 - [x] Stop and restart functionality
+---Next Version--comming soon
 - [ ] Settings dashboard
 - [ ] More customization options
 - [ ] Further installer and upgrade improvements
+- [ ] Custom sorting rules and Folders
 
 ---
 
@@ -147,7 +149,7 @@ If you find a bug or have an idea, open an issue in the repository.
 ## 🔗 Links
 
 - **GitHub Repository:** https://github.com/pushpraj19/AutoFileSorter
-- **Developer:** Pushpraj
+- **Developer:** Pushpraj Budha
 
 ---
 
